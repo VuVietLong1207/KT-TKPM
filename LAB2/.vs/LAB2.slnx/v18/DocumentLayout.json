@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LAPTOP\\source\\repos\\LAB2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F319D487-73D8-7112-8F5F-41EC036A539B}|LAB2\\LAB2.csproj|c:\\users\\laptop\\source\\repos\\lab2\\lab2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F319D487-73D8-7112-8F5F-41EC036A539B}|LAB2\\LAB2.csproj|solutionrelative:lab2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F319D487-73D8-7112-8F5F-41EC036A539B}|LAB2\\LAB2.csproj|c:\\users\\laptop\\source\\repos\\lab2\\lab2\\logic\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F319D487-73D8-7112-8F5F-41EC036A539B}|LAB2\\LAB2.csproj|solutionrelative:lab2\\logic\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F319D487-73D8-7112-8F5F-41EC036A539B}|LAB2\\LAB2.csproj|c:\\users\\laptop\\source\\repos\\lab2\\lab2\\data\\mongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F319D487-73D8-7112-8F5F-41EC036A539B}|LAB2\\LAB2.csproj|solutionrelative:lab2\\data\\mongorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F319D487-73D8-7112-8F5F-41EC036A539B}|LAB2\\LAB2.csproj|c:\\users\\laptop\\source\\repos\\lab2\\lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F319D487-73D8-7112-8F5F-41EC036A539B}|LAB2\\LAB2.csproj|solutionrelative:lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\source\\repos\\LAB2\\LAB2\\Logic\\StudentService.cs",
+              "RelativeDocumentMoniker": "LAB2\\Logic\\StudentService.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\source\\repos\\LAB2\\LAB2\\Logic\\StudentService.cs",
+              "RelativeToolTip": "LAB2\\Logic\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:34:35.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MongoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\source\\repos\\LAB2\\LAB2\\Data\\MongoRepository.cs",
+              "RelativeDocumentMoniker": "LAB2\\Data\\MongoRepository.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\source\\repos\\LAB2\\LAB2\\Data\\MongoRepository.cs",
+              "RelativeToolTip": "LAB2\\Data\\MongoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:34:17.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\source\\repos\\LAB2\\LAB2\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "LAB2\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\source\\repos\\LAB2\\LAB2\\Models\\Student.cs",
+              "RelativeToolTip": "LAB2\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:33:57.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LAPTOP\\source\\repos\\LAB2\\LAB2\\Program.cs",
+              "RelativeDocumentMoniker": "LAB2\\Program.cs",
+              "ToolTip": "C:\\Users\\LAPTOP\\source\\repos\\LAB2\\LAB2\\Program.cs",
+              "RelativeToolTip": "LAB2\\Program.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAwwGMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T12:30:39.227Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
